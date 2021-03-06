@@ -1,0 +1,27 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Page loader",
+  "keywords": [
+    "console",
+    "utility",
+    "page",
+    "load",
+    "hexlet"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekseyvlivanov/backend-project-lvl3.git"
+  },
+  "author": "Aleksey Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekseyvlivanov/backend-project-lvl3/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/alekseyvlivanov/backend-project-lvl3#readme"
+}
